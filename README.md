@@ -8,8 +8,8 @@ ______________
 - Create a database and a table with PostgreSQL (commands in `/server/database.sql`)
 - Change dir to `server`
 - Create a `.env` file with the following content:
-    > PGPASSWORD=<the postgres super user password>
-    > DATABASE=<the name of the database>
+    > PGPASSWORD=the postgres super user password  
+    > DATABASE=the name of the database
 - `npm install` to install the needed dependencies
 - `npm start` to run the server
 - Open another terminal and CD to `client`
