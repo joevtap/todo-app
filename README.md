@@ -9,7 +9,7 @@ ______________
 - Change dir to `server`
 - Create a `.env` file with the following content:
     > PGPASSWORD=the postgres super user password  
-    > DATABASE=the name of the database
+    > DATABASE=the name of database
 - `npm install` to install the needed dependencies
 - `npm start` to run the server
 - Open another terminal and CD to `client`
