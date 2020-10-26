@@ -13,4 +13,4 @@ ______________
 - `npm install` to install the needed dependencies
 - `npm start` to run the server
 - Open another terminal and CD to `client`
-- `npm install` and `npm start` to start the react developer server
+- `npm install` and `npm start` to start the react development server
